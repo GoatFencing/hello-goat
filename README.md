@@ -1,2 +1,2 @@
 # hello-goat
-Test repository
+This is some text to test editing text.
